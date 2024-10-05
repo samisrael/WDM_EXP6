@@ -97,7 +97,7 @@ highest_rank_score = max(result[2] for result in search_results)
 print("The highest rank cosine score is:", highest_rank_score)
 ```
 ### Output:
-<img src = "./images/output.png" height = "250px" width = "200px"></img>
+<img src = "./images/output.png" height = "350px" width = "300px"></img>
 
 ### Result:
 
